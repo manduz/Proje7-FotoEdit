@@ -1,0 +1,10 @@
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\bin\Debug\FotoEdit.exe.config
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\bin\Debug\FotoEdit.exe
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\bin\Debug\FotoEdit.pdb
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.csproj.AssemblyReference.cache
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.Form1.resources
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.Properties.Resources.resources
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.csproj.GenerateResource.cache
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.csproj.CoreCompileInputs.cache
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.exe
+C:\EmekWebRepo\C#\Proje7-FotoEdit\FotoEdit\obj\Debug\FotoEdit.pdb
